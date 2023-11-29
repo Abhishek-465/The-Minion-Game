@@ -1,5 +1,6 @@
 # The-Minion-Game
-Tech Stack: Python
+[Tech Stack: Python]
+<br>
 Kevin and Stuart want to play the 'The Minion Game'.
 
 Game Rules
